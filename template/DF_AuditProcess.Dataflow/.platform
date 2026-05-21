@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "DF_AuditProcess"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bfdc0c0c-0d83-b37f-4d68-cc3e2acc2b1b"
+  }
+}

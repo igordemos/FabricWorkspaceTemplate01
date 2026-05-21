@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLModel",
+    "displayName": "ML_AuditProcess"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a6afd2a3-5477-8975-431b-13b9242c2120"
+  }
+}
